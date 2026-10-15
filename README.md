@@ -1,4 +1,4 @@
-# Biblioteca DES
+# Biblioteca DES . Gestion de prestamos 
 
 ## Cómo arrancar
 - Backend: entrar en backend/ y ejecutar la aplicación Spring Boot
